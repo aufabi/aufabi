@@ -8,7 +8,7 @@ I am passionate about mathematics and its applications, including data science a
 
 * 🌍  I'm based in Sidoarjo
 * ✉️  You can contact me at [aufabi98@gmail.com](mailto:aufabi98@gmail.com)
-* 🧠  I'm learning Data Science and Computer Vision
+* 🧠  I'm learning Mathematics, Data Science, and Computer Vision
 * 🤝  I'm open to collaborating on Data Science, Machine Learning, Computer Vision, Fourier Analysis, Functional Analysis, and other Mathematics (Research) Projects
 * ⚡  I once worked as a digital marketing staff by using Facebook Ads and Google Ads
 
