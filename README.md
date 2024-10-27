@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aufa Biahdillah
 =======================================================================================================================================
 
-A Mathematic, Data, and Machine Learning Enthusiast from Indonesia
+A Mathematic, Data, and Artificial Intelligence Enthusiast from Indonesia
 ------------------------------------------------------------------
 
 I am passionate about mathematics and its applications, including data science and machine learning. I completed my bachelor's degree in mathematics at Sepuluh Nopember Institute of Technology, Indonesia, focusing on pure mathematics, specifically functional analysis. Subsequently, I achieved the LPDP scholarship from the Indonesian Ministry of Finance to continue my master's study at Aalto University, Finland. I majored in mathematics and minored in machine learning, data science, and artificial intelligence during my studies. I completed my master's thesis about the quantum Fourier transform and the application of quantum phase estimation in machine learning. These have enhanced my machine learning skills theoretically. Nevertheless, I am still eager to upgrade my skills practically by participating in two online boot camps focusing on data science and computer vision.
